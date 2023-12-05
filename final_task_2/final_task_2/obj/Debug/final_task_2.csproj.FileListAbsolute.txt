@@ -1,0 +1,11 @@
+G:\app\visual c# task\final_task_2\final_task_2\bin\Debug\final_task_2.exe.config
+G:\app\visual c# task\final_task_2\final_task_2\bin\Debug\final_task_2.exe
+G:\app\visual c# task\final_task_2\final_task_2\bin\Debug\final_task_2.pdb
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.csproj.AssemblyReference.cache
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.csproj.SuggestedBindingRedirects.cache
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.Form1.resources
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.Properties.Resources.resources
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.csproj.GenerateResource.cache
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.csproj.CoreCompileInputs.cache
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.exe
+G:\app\visual c# task\final_task_2\final_task_2\obj\Debug\final_task_2.pdb
